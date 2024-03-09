@@ -1,0 +1,16 @@
+footer img {
+    height: 110px;
+    width: 110px;
+}
+
+.navbar .container-fluid{
+    font-family: "Oswald", sans-serif;
+}
+
+.nav-item:hover{
+    border-bottom: 4px solid rgb(80, 76, 76);
+    transition: 0.2s;
+}
+
+
+
